@@ -1,5 +1,6 @@
 
 # Whatsapp Bot with GPT-3
+![Whatsapp Bot with GPT-3](/images/índice.jpg)
 
 Do you want to create a unique and interactive chatbot for your Whatsapp group? Introducing the Whatsapp Bot with GPT-3! Create a bot that can understand natural language and respond to your users with an AI-backed conversational interface. 
 
