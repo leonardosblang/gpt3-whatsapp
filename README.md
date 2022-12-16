@@ -30,5 +30,5 @@ Before you can use this Whatsapp Bot with GPT-3, you will need to install the fo
 
 Happy chatting! :smile:
 
-# Made by LeoLang
-This Whatsapp Bot with GPT-3 was created by LeoLang.
+# Made by Leolang
+This Whatsapp Bot with GPT-3 was created by Leonardo Lang.
