@@ -27,7 +27,7 @@ Before you can use this Whatsapp Bot with GPT-3, you will need to install the fo
 1. Clone this repository to your local machine: `git clone https://github.com/leonardosblang/gpt3-whatsapp`
 2. Navigate to the cloned repository: `cd whatsapp-bot-gpt3`
 3. Install the required packages: `pip install -r requirements.txt`
-4. Configure the bot and connect to your Whatsapp group
+4. Configure the bot and connect to your Whatsapp!
 
 Happy chatting! :smile:
 
