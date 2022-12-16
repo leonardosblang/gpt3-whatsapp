@@ -13,7 +13,7 @@ To get started, you'll need a Twilio account and an OpenAI API key.
 - Understand natural language
 - Respond to users with highly accurate, natural language responses 
 - Personalize your bot with custom responses
-- Train your bot to understand more complex language
+- Train your bot to understand more complex language(Requires finetuning a model of your choice first)
 
 ## Prerequisites
 
