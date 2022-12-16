@@ -14,10 +14,21 @@ To get started, you'll need a Twilio account and an OpenAI API key.
 - Personalize your bot with custom responses
 - Train your bot to understand more complex language
 
-## Setup
-1. Create a Twilio account 
-2. Obtain an OpenAI API key 
-3. Configure the bot 
-4. Connect the bot to your Whatsapp group 
+## Prerequisites
+
+Before you can use this Whatsapp Bot with GPT-3, you will need to install the following dependencies:
+
+- Twilio Account
+- OpenAI API Key
+
+## Installation
+
+1. Clone this repository to your local machine: `git clone https://github.com/leonardosblang/gpt3-whatsapp`
+2. Navigate to the cloned repository: `cd whatsapp-bot-gpt3`
+3. Install the required packages: `pip install -r requirements.txt`
+4. Configure the bot and connect to your Whatsapp group
 
 Happy chatting! :smile:
+
+# Made by LeoLang
+This Whatsapp Bot with GPT-3 was created by LeoLang.
